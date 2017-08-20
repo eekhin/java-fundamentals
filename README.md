@@ -1,6 +1,6 @@
-#Core Project
+# Basic Project
 
-*Structure for creating a basic Java Project.*
+*Structure for creating a Basic Java Project.*
 
 **Java 7**
 
