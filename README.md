@@ -1,6 +1,6 @@
-# Basic Project
+# Java Fundamentals Project
 
-*Structure for creating a Basic Java Project.*
+*Structure for creating a java fundamentals Project.*
 
 **Java 7**
 
